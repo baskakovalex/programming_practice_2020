@@ -1,2 +1,3 @@
-print("hello world")
-print("hah it does work")
+a="b"
+print(type(a))
+print(id(a))
