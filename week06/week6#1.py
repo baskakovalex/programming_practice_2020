@@ -1,4 +1,5 @@
-def power(a,n):
+def power(a,n): 
+  
   b=1
   for i in range(abs(n)):
     b*=a
